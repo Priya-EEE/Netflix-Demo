@@ -1,0 +1,8 @@
+.card::-webkit-scrollbar{
+    display: none ;
+    
+}
+
+.foot ul li{
+    cursor: pointer;
+}
